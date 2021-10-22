@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
-    <AssemblyName>Microsoft.WindowsAPICodePack</AssemblyName>
+    <AssemblyName>Arup.Microsoft.WindowsAPICodePack</AssemblyName>
     <PackageId>Microsoft-WindowsAPICodePack-Core</PackageId>
-    <VersionPrefix>1.1.5</VersionPrefix>
+    <VersionPrefix>1.1.6</VersionPrefix>
     <Title>$(AssemblyName)</Title>
     <Authors>rpastric;contre;dahall</Authors>
     <Company>Microsoft</Company>
